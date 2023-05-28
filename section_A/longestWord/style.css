@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background:rgb(57, 225, 183);
+    display: flex;
+    justify-content:center;
+    align-items:center; 
+     margin-top:150px;
+}
+div{
+    background-color: white;
+    box-shadow: 0 0 7px black;
+    width:600px;
+    text-align: center;
+    padding:25px;
+    border-radius: 7px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium';
+    color:rgb(164, 21, 164);
+    text-transform: uppercase;
+}
+.text{
+    font-size: 25px;
+    color:rgb(10, 104, 111);
+    margin-top: 50px;
+}
+span{
+    font-style: italic;
+    font-size: 25px;
+    color:red;
+}
+.word{
+    font-size: 25px;
+    color:rgb(126, 178, 22);
+    font-family: fantasy;
+    letter-spacing: 1.5px;
+}
+.answer{
+    font-size: 28px;
+    color:green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
